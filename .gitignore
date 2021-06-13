@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Personal / Temporary Files
+Datasets/json_formatting.ipynb
+json_formatting.ipynb
+Recommendation Engine.ipynb
+Datasets/recommendation.json
+Datasets/recommendations.json
